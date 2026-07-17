@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋 I'm Kapil Bhande
 
-<!--
-**Kapilkumar-Bhande/Kapilkumar-Bhande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Electronics and Communication Engineering Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring MIS Analyst & Data Analyst
+
+📊 Passionate about Excel, SQL, Power BI and Python
+
+---
+
+## Skills
+
+- Excel
+- Power BI
+- SQL
+- Python
+- Git
+- GitHub
+
+---
+
+## Currently Learning
+
+- Advanced Excel
+- Power BI
+- SQL
+- Data Analytics
+
+---
+
+## Projects
+
+✔ Excel Dashboards
+
+✔ Power BI Reports
+
+✔ Django Projects
+
+✔ Python Automation
+
+---
+
+## Contact
+
+LinkedIn:
+
+Email:
+
