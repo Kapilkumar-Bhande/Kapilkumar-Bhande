@@ -36,15 +36,13 @@
 
 ✔ Power BI Reports
 
-✔ Django Projects
-
 ✔ Python Automation
 
 ---
 
 ## Contact
 
-LinkedIn:
+Phone : 9353238001
 
-Email:
+Email:kapilshantkumarbhande@gmail.com
 
